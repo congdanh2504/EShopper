@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/round_home_24"/>
+
+    <item
+        android:id="@+id/shopFragment"
+        android:title="Shop"
+        android:icon="@drawable/round_shopping_cart_24"/>
+
+    <item
+        android:id="@+id/blogFragment"
+        android:title="Blog"
+        android:icon="@drawable/round_post_add_24"/>
+
+    <item
+        android:id="@+id/contactFragment"
+        android:title="Contact"
+        android:icon="@drawable/round_contacts_24"/>
+</menu>
